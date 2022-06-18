@@ -806,7 +806,7 @@ http://nettv-host.one:8000/cana672da82/spjd38dmen/179729
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS- Sharquia News" tvg-logo="http://mijn.me/logo/galery/asharqnews.png" group-title="AR- NEWS",NEWS- Sharquia News
 http://nettv-host.one:8000/cana672da82/spjd38dmen/2411
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS- Al Hurra  Iraq" tvg-logo="http://mijn.me/logo/galery/alhurra.png" group-title="AR- NEWS",NEWS- Al Hurra  Iraq
-http://nettv-host.one:8000/cana672da82/spjd38dmen/2415
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS- Al Arabiya Al Hadath" tvg-logo="http://mijn.me/logo/galery/alarabiya.png" group-title="AR- NEWS",NEWS- Al Arabiya Al Hadath
 http://nettv-host.one:8000/cana672da82/spjd38dmen/2881
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS- SKY News Arabic" tvg-logo="http://mijn.me/logo/galery/skynewsarabia.png" group-title="AR- NEWS",NEWS- SKY News Arabic
