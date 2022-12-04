@@ -1,4 +1,116 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL ARABIYA AL HADATH" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALARABIYAALHADATH.png" group-title="Favorite",|AR| AL ARABIYA AL HADATH
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2881
+#EXTINF:-1 tvg-id="ext" tvg-name="NEWS- TRT Arabia" tvg-logo="http://mijn.me/logo/galery/trtarabi.png" group-title="Favorite",NEWS- TRT Arabia
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8801
+#EXTINF:-1 tvg-id="ext" tvg-name="|MYHD| MBC2 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/MBC GROUP/MBC2.png" group-title="Favorite",|MYHD| MBC2 HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2429
+#EXTINF:-1 tvg-id="ext" tvg-name="|MYHD| MBC1 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/MBC GROUP/MBC1.png" group-title="Favorite",|MYHD| MBC1 HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8441
+#EXTINF:-1 tvg-id="ext" tvg-name="|MYHD| MBC4 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/MBC GROUP/MBC4.png" group-title="Favorite",|MYHD| MBC4 HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8443
+#EXTINF:-1 tvg-id="ext" tvg-name="|MYHD| MBC MAX HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/MBC GROUP/MBCMAX.png" group-title="Favorite",|MYHD| MBC MAX HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8444
+#EXTINF:-1 tvg-id="ext" tvg-name="|MYHD| MBC ACTION HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/MBC GROUP/MBCAction.png" group-title="Favorite",|MYHD| MBC ACTION HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8445
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL JAZEERA DOCUMENTARY HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALJAZEERADOCUMENTARY.png" group-title="Favorite",|AR| AL JAZEERA DOCUMENTARY HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2418
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL JAZEERA MUBASHER HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALJAZEERAMUBASHERHD.png" group-title="Favorite",|AR| AL JAZEERA MUBASHER HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/3280
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BBC ARABIC" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/BBCARABIC.png" group-title="Favorite",|AR| BBC ARABIC
+http://nettv-host.one:8000/cana672da82/spjd38dmen/3095
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| DW ARABIC" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/DWARABIC.png" group-title="Favorite",|AR| DW ARABIC
+http://nettv-host.one:8000/cana672da82/spjd38dmen/192430
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| SKY NEWS ARABIA HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/SKYNEWSARABIAHD.png" group-title="Favorite",|AR| SKY NEWS ARABIA HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2882
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| RT ARAB" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/RTARAB.png" group-title="Favorite",|AR| RT ARAB
+http://nettv-host.one:8000/cana672da82/spjd38dmen/3252
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| HADATH NEWS" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/HADATHNEWS.png" group-title="Favorite",|AR| HADATH NEWS
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8747
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BBC WORLD NEWS" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/BBCWORLDNEWS.png" group-title="Favorite",|AR| BBC WORLD NEWS
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/1259
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL MAYADEEN" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALMAYADEEN.png" group-title="Favorite",|AR| AL MAYADEEN
+http://nettv-host.one:8000/cana672da82/spjd38dmen/179729
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| LBC HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/LBCSAT.png" group-title="Favorite",|AR| LBC HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/113182
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| FUTURE TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/FUTURETV.png" group-title="Favorite",|AR| FUTURE TV
+http://nettv-host.one:8000/cana672da82/spjd38dmen/100111
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| NBN LEBANON HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/NBNLEBANONHD.png" group-title="Favorite",|AR| NBN LEBANON HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2891
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ALAAN TV LEBANON" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/ALAANTVLEBANON.png" group-title="Favorite",|AR| ALAAN TV LEBANON
+http://nettv-host.one:8000/cana672da82/spjd38dmen/113184
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL MANAR" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/ALMANAR.png" group-title="Favorite",|AR| AL MANAR
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2421
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| LBC INTERNATIONAL HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/LBCIINTERNATIONAL.png" group-title="Favorite",|AR| LBC INTERNATIONAL HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2803
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| DUBAI TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/UAE/DUBAITV.png" group-title="Favorite",|AR| DUBAI TV HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2403
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| SAMA DUBAI HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/UAE/SAMADUBAIHD.png" group-title="Favorite",|AR| SAMA DUBAI HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2402
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ABU DHABI NAT GEO. HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/UAE/ABUDHABINATGEOHD.png" group-title="Favorite",|AR| ABU DHABI NAT GEO. HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2422
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ORIENT TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/SYRIA/ORIENTTV.png" group-title="Favorite",|AR| ORIENT TV
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/156787
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| MECCA TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/ISLAMIC/MECCATV.png" group-title="Favorite",|AR| MECCA TV
+http://nettv-host.one:8000/cana672da82/spjd38dmen/11735
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL ARABIYA HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALARABIYAHD.png" group-title="Favorite",|AR| AL ARABIYA HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2441
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| FRANCE 24" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/FRANCE24.png" group-title="Favorite",|AR| FRANCE 24
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2929
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL ARABY HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALARABYHD.png" group-title="Favorite",|AR| AL ARABY HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2929
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL ALAM NEWS CHANNEL" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALALAMNEWSCHANNEL.png" group-title="Favorite",|AR| AL ALAM NEWS CHANNEL
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8746
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| CNBC ARABIYA" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/CNBCARABIYA.png" group-title="Favorite",|AR| CNBC ARABIYA
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8800
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL HIWAR HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALHIWARHD.png" group-title="Favorite",|AR| AL HIWAR HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/67593
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL JAZEERA" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALJAZEERA.png" group-title="Favorite",|AR| AL JAZEERA
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2417
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| I24 NEWS  (AR)" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/I24NEWSHDFRENCH.png" group-title="Favorite",|AR| I24 NEWS  (AR)
+http://nettv-host.one:8000/cana672da82/spjd38dmen/179728
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ART AFLAM 1" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ROTANA GROUP/ARTAflam1.png" group-title="Favorite",|AR| ART AFLAM 1
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2442
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ART AFLAM 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ROTANA GROUP/ARTAflam2.png" group-title="Favorite",|AR| ART AFLAM 2
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2443
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ROTANA CINEMA HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ROTANA GROUP/RotanaCinema.png" group-title="Favorite",|AR| ROTANA CINEMA HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2452
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL NAS" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/ISLAMIC/ALNAS.png" group-title="Favorite",|AR| AL NAS
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/54110
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ON TV DRAMA" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/EGYPT/ONTVDRAMA.png" group-title="Favorite",|AR| ON TV DRAMA
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/3887
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ON TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/EGYPT/ONTVE.png" group-title="Favorite",|AR| ON TV HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/219237
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| OTV TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/OTVTV.png" group-title="Favorite",|AR| OTV TV
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2887
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| ONE TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/ONETV.png" group-title="Favorite",|AR| ONE TV
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/73584
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL JADEED" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/LEBANON/ALJADEED.png" group-title="Favorite",|AR| AL JADEED
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2890
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| DUBAI ONE" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/UAE/DUBAIONE.png" group-title="Favorite",|AR| DUBAI ONE
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2406
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN FOX HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/BeinFox.png" group-title="Favorite",|AR| BEIN FOX HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/150973
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN FOX MOVIES HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/FoxActionMovies.png" group-title="Favorite",|AR| BEIN FOX MOVIES HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/150974
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN MOVIES 4 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/BeinMovies4.png" group-title="Favorite",|AR| BEIN MOVIES 4 HD
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/28550
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN MOVIES 3 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/BeinMovies3.png" group-title="Favorite",|AR| BEIN MOVIES 3 HD
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/28551
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN MOVIES 2 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/BeinMovies2.png" group-title="Favorite",|AR| BEIN MOVIES 2 HD
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/28552
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| BEIN MOVIES 1 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/OSN GROUP/BeinMovies1.png" group-title="Favorite",|AR| BEIN MOVIES 1 HD
+http://line.cdn-ott.net:80/KH3YTFINHA/AEJHOXPFHR/28553
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| SYRIA TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/SYRIA/SYRIATVHD.png" group-title="Favorite",|AR| SYRIA TV HD
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8814
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| HALAB TODAY TV" tvg-logo="" group-title="Favorite",|AR| HALAB TODAY TV
+http://nettv-host.one:8000/cana672da82/spjd38dmen/2426
+#EXTINF:-1 tvg-id="ext" tvg-name="FATAFEAT" tvg-logo="" group-title="Favorite",FATAFEAT
+http://nettv-host.one:8000/cana672da82/spjd38dmen/16051
+#EXTINF:-1 tvg-id="ext" tvg-name="SHIAM- Syria Sat" tvg-logo="http://mijn.me/logo/galery/syriatv.png" group-title="Favorite",SHIAM- Syria Sat
+http://nettv-host.one:8000/cana672da82/spjd38dmen/8817
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL HURRA" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ARNEWSANDFACTUAL/ALHURRA.png" group-title="Favorite",|AR| AL HURRA
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900-b/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="YEM- ✩✩✩ YEMEN ✩✩✩" tvg-logo="http://mijn.me/logo/galery/yementv.png" group-title="AR- YEMEN",YEM- ✩✩✩ YEMEN ✩✩✩
 http://nettv-host.one:8000/cana672da82/spjd38dmen/130954
 #EXTINF:-1 tvg-ID="" tvg-name="YEM- AL SAHAT" tvg-logo="http://mijn.me/logo/galery/yementv.png" group-title="AR- YEMEN",YEM- AL SAHAT
